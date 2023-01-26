@@ -73,3 +73,7 @@ end
 
 # a ruby wrapper for the Spotify Web API.
 gem "rspotify"
+
+# use slim for not use html.erb
+gem "slim"
+gem 'slim-rails'
